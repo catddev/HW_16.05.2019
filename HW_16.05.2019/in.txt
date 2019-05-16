@@ -1,0 +1,6 @@
+admin ANNA 150000
+manager OLGA 180000
+manager ILYA 170000
+admin ERIK 200000
+coder LAMER 300000
+coder GENIUS 700000
